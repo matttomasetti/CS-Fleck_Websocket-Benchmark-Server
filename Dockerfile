@@ -26,4 +26,4 @@ RUN cd /root \
 EXPOSE 8080
 
 WORKDIR /root
-CMD ["dotnet", "run", "--project", "cs_websocket_benchmark_server", "--framework", "netcoreapp5.0"]
+CMD ["dotnet", "run", "--project", "cs_fleck_websocket_benchmark_server", "--framework", "netcoreapp5.0"]

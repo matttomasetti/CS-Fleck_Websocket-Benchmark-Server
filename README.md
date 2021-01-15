@@ -1,6 +1,6 @@
-# C# Websocket Benchmark Server
+# C# Fleck Websocket Benchmark Server
 
-This is a C# variation of websocket servers designed to 
+This is a C# (Fleck) variation of websocket servers designed to 
 benchmark the performance of both reliability and speed of various 
 websocket implementations.
 
